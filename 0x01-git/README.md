@@ -1,2 +1,3 @@
-my readme. wow!
+I'm PETER
+A SOFTWARE ENGINEER
 
